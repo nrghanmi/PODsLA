@@ -7,7 +7,7 @@ Data: contains the data of demand points (locations, population size and land ar
 
 PODsLA: contains PODsLA.R for the proposed approach and weighted_distance.R to calculate the weighted distance.
 
-Results: contains Excel files for demand points and population coverage over different distances. Also, it includes Figures to plot the distribution of demand points and PODs and to show the comparison among approaches in the ablation study.
+Results: contains Excel files for population coverage over different distances. Also, it includes Figures to plot the distribution of demand points and PODs and to show the comparison among approaches in the ablation study.
 
 Ablation study: contains data representation and using weights folders. Data representation has S-PODsLA.R and comparison-approaches.R while using weights has PODsLA_Avg.R, PODsLA_Max.R and comparison-weights.R. 
 
