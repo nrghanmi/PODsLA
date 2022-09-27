@@ -3,7 +3,7 @@ This repository contains a code for the PODsLA approach for points of dispensing
 
 #### **Repository content**
 ------------------
-Data: contains the data of demand points location (areas.csv).
+Data: contains the data of demand points (locations, population size and land area) as  areas.csv.
 
 PODsLA: contains PODsLA.R for the proposed approach and weighted_distance.R to calculate the weighted distance.
 
