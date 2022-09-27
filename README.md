@@ -13,4 +13,4 @@ Ablation study: contains data representation and using weights folders. Data rep
 
 #### **Data**
 ------------------
-The code for the approach is general and can be used with the data that consists of demand points, location, and population size. 
+The code for the approach is general and can be used with the data that consists of demand points location, and population size. 
